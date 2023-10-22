@@ -1,6 +1,10 @@
-[![MasterHead]( [![MasterHead](https://ee.bilkent.edu.tr/tr/wp-content/uploads/2020/07/bilkenteee_collage_v2-1536x663.png))
+![MasterHead](https://bgcp.bionluk.com/images/portfolio/1400x788/de53eb87-89f6-4b9f-a554-22a6dc4331e8.jpg)
 <h1 align="center">Hi 👋, I'm Veli Yarar</h1>
 <h3 align="center">A passionate Data Cientist and robotic from Türkiye</h3>
+
+- 🔭 I’m currently working on Poyraz robotaxi [Poyraz](https://www.youtube.com/@poyrazrobotaksi2281/videos)
+
+- 🌱 I’m currently learning **node.js, Yolo, Machine Learning**
 
 - 💬 Ask me about **machine learning and object detection**
 
@@ -19,3 +23,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=veliyarar&show_icons=true&locale=en" alt="veliyarar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=veliyarar&" alt="veliyarar" /></p>
+
