@@ -1,4 +1,4 @@
-[![MasterHead](https://bgcp.bionluk.com/images/portfolio/1400x788/de53eb87-89f6-4b9f-a554-22a6dc4331e8.jpg)
+![MasterHead](https://bgcp.bionluk.com/images/portfolio/1400x788/de53eb87-89f6-4b9f-a554-22a6dc4331e8.jpg)
 <h1 align="center">Hi 👋, I'm Veli Yarar</h1>
 <h3 align="center">A passionate Data Cientist and robotic from Türkiye</h3>
 
